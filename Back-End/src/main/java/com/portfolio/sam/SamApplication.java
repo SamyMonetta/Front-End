@@ -1,13 +1,13 @@
-package com.portfolio.Monetta;
+package com.portfolio.sam;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MonettaApplication {
+public class SamApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MonettaApplication.class, args);
+		SpringApplication.run(SamApplication.class, args);
 	}
 
 }
